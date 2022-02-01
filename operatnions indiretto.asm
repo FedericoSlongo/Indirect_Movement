@@ -1,3 +1,4 @@
+name "owo"
 .CODE  
 .DATA
 .STARTUP
